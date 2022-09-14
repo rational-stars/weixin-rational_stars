@@ -1,5 +1,5 @@
 ### 安装
-在线安装地址：https://52bp.github.io/shadowrocket/index.html
+在线安装地址：https://github.com/rational-stars/weixin-rational_stars/blob/master/index.html
 ### 最新版本
 最新版本可以关注一下微信公众号：苹果账号ID分享 ,提供美区小火箭账号
 ### 使用说明
